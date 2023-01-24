@@ -101,6 +101,11 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Degisew Mengist**
+
+- GitHub: [GitHub](https://github.com/degisew)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/degisew-mengist)
+
 👤 **Jeremiah Melfah**
 
 - GitHub: [GitHub](https://github.com/Jaymelfah)
@@ -111,10 +116,6 @@ Example command:
 - GitHub: [GitHub](https://github.com/uisendy)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sendyinieke)
 
-👤 **Degisew Mengist**
-
-- GitHub: [GitHub](https://github.com/degisew)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/degisew-mengist)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
